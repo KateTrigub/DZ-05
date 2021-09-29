@@ -1,0 +1,47 @@
+h1 {
+    color:red
+}
+
+#title {
+    color:seagreen
+}
+
+.class{
+    color:salmon
+}
+
+a#universal {
+    color:rgb(22, 14, 78) 
+}
+
+a {
+    color:violet
+}
+
+.text .link  {
+    color:yellow
+}
+
+.title.big {
+    color:rgb(13, 156, 13)
+}
+
+p.text.big {
+    font-weight:bold
+}
+
+p a {
+    color:green
+}
+
+* {
+    font-family: Verdana
+}
+
+.title + .text {
+    color:purple
+}
+
+[href*="attr"] {
+    color:rgb(50, 205, 76)
+}
